@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Color One",
+        "description": "Midnight Green Eagle Green",
+        "color": "#114B5F"
+    },
+    {
+        "id": 2,
+        "name": "Color Two",
+        "description": "Fiery Rose",
+        "color": "#f45b69"
+    },
+    {
+        "id": 3,
+        "name": "Color Three",
+        "description": "Dark Sienna",
+        "color": "#580C1F"
+    },
+    {
+        "id": 4,
+        "name": "Color Four",
+        "description": "Persian Plum",
+        "color": "#74121d"
+    },
+    {
+        "id": 5,
+        "name": "Color Five",
+        "description": "Crimson UA",
+        "color": "#A7333F"
+    },
+    {
+        "id": 6,
+        "name": "Color Six",
+        "description": "Russian Violet",
+        "color": "#241e4e"
+    },
+    {
+        "id": 7,
+        "name": "Color Seven",
+        "description": "Liver Organ",
+        "color": "#61210F"
+    }
+]
